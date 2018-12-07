@@ -1,3 +1,6 @@
 {
-	"name": "kvz/system_daemon"
+	"name": "platiniumgroup/system_daemon",
+	"autoload": {
+		"files": ["System/Daemon.php"]
+	}
 }
